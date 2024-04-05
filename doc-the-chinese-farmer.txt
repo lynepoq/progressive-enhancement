@@ -1,10 +1,10 @@
-The Story of the Chinese Farmer
-
+<1> The Story of the Chinese Farmer <1>
+<header>
 Is it a good thing? Is that a bad thing? I don't know.
 May 11, 2016, Alexandre Gorius
 
 In nature, Good & Evil do not exist. The Universe itself is neither good nor bad, but a potential in permanent development.
-
+</header>
 
 In life, there are 4 types of people.
 - people who think the Internet is good,
@@ -37,8 +37,10 @@ Alan Watts
 
 
 ----
-
+<table>
+<caption>
 Here is this dialog in the form of a table
+</caption>
 
    +-------------------+---------------------+
    |                   |                     |
@@ -56,8 +58,10 @@ Here is this dialog in the form of a table
    |                   |                     |
    | Avoid war	       |  Maybe              |
    +-------------------+---------------------+
+<figure>
    Table representing the farmer's philosophy.
-   
+</figure>
+   </table>
    
 Conclusion  
 Good and Bad are just one perspective. Bananas are good for monkeys, but monkeys are not good for bananas. Let's not make a big deal out of it...
